@@ -1,6 +1,6 @@
 export interface Todo {
-    taskName : String
-    userName : String
-    email : String
-    contact : Number
+    taskName : string
+    userName : string
+    email : string
+    contact : number
 }
